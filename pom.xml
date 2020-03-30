@@ -6,7 +6,7 @@
 
   <groupId>no.bankid</groupId>
   <artifactId>cicd</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>war</packaging>
 
   <name>cicd Maven Webapp</name>
